@@ -43,4 +43,4 @@ O conjunto de dados não possui informações de receita ou lucro. Portanto, nã
 
 Para uma compreensão mais completa do projeto, incluindo o processo de tratamento dos dados, metodologia, métricas e análises realizadas, consulte a documentação completa disponível nos arquivos deste repositório.
 
-[Acessar documentação](https://github.com/dudyus/marketing_campaign_analisys/blob/main/documenta%C3%A7%C3%A3o/documentacao-marketing-campaign.pdf)
+[Acessar documentação](https://github.com/dudyus/Marketing_Campaign_Analysis/blob/main/documenta%C3%A7%C3%A3o/documentacao-marketing-campaign.pdf)
